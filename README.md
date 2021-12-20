@@ -4,7 +4,9 @@ This script uses imagemagick to crop the viewer frame on Concentriq screenshots 
 
 ## Lambdatest Image Specs
 -Windows 10
+
 -1920 x 1080 resolution 
+
 -Chrome 86, latest, Edge 86, latest
 
 ## Directions
