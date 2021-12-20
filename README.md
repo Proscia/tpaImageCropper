@@ -1,6 +1,5 @@
 TPA Image Cropper
 
-===========
 This script uses imagemagick to crop the viewer frame on Concentriq screenshots from Lambdatest for TPA testing.
 
 ## Lambdatest Image Specs
