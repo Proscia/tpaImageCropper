@@ -11,9 +11,13 @@ This script uses imagemagick to crop the viewer frame on Concentriq screenshots 
 
 ## Directions
 -Install imagemagick, python, and wand
+
 https://www.pythonpool.com/imagemagick-python/
+
 -Add desired images from Lambdatest to the Images folder
+
 -Run script
+
 -512x512px cropped images will be saved to the CroppedImages folder
 
 ### Warning
